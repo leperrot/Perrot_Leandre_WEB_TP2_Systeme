@@ -1,5 +1,8 @@
 .idea
 build
+build.xml
+manifest.mf
 dist
+nbproject
 Rapport.txt
 tp2.html
